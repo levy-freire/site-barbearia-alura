@@ -2,7 +2,9 @@
 
 🛑Criação site Home
 Primeirante criado o site principal, que é chamado de index.html, no qual o site será o home, em que será apresentado a barbearia, qual a missão, seus beneficios e a história da barbeária, realizei a criação e estilizei a partir do style css e linkei e referencial para assim adicionar as alteraç do css no arquivo html.
-![image](https://user-images.githubusercontent.com/125529065/232180515-83a11977-6869-4008-bad2-f7f33209e25c.png)![image](https://user-images.githubusercontent.com/125529065/232180539-854ebd00-9b58-4e2d-a711-cc437e56bac3.png)
+![image](https://user-images.githubusercontent.com/125529065/232181027-32491d27-c82a-4fc0-a467-2342c43c2d1d.png)
+![image](https://user-images.githubusercontent.com/125529065/232181093-2d52d5c4-b399-45b7-b441-9dc13a38f6ea.png)
+
 
 
 
@@ -13,7 +15,9 @@ Primeirante criado o site principal, que é chamado de index.html, no qual o sit
 🔸Novamente estilizando com css
 🔸Foi criado cabeçalho e rodapé, no qual ambos foram adicionados imagens.
 
-![image](https://user-images.githubusercontent.com/125529065/232180652-ec47ee03-575c-4685-b873-c2b9664bb7c6.png)![image](https://user-images.githubusercontent.com/125529065/232180664-72778bc2-5731-47df-8ee2-146c447a2655.png)
+![image](https://user-images.githubusercontent.com/125529065/232181119-acc46974-4f85-4acf-aaaf-20b3d9ada87f.png)
+![image](https://user-images.githubusercontent.com/125529065/232181134-5849946e-fa32-42a4-a140-7d7281a5d093.png)
+
 
 
 🧮Criação do site contato
@@ -22,8 +26,10 @@ Primeirante criado o site principal, que é chamado de index.html, no qual o sit
 🔸Nesse site também terá a opção de clicar e voltar para os produtos e home
 🔸Nesse site terá opção de marcar horários e dias melhores para o corte, nome, telefone, email, 
 🔸Terá o botão de enviar tudo preenchido para o barbeiro.
-![image](https://user-images.githubusercontent.com/125529065/232180958-86ab88a3-b407-47b3-bf88-a720d4939ab3.png)
-![image](https://user-images.githubusercontent.com/125529065/232180963-867560c9-a006-4309-a02a-06c94cae821d.png)
+
+![image](https://user-images.githubusercontent.com/125529065/232181151-ca280993-4553-497d-8c54-5c6f20c80216.png)
+![image](https://user-images.githubusercontent.com/125529065/232181161-b3ffccec-cdbb-4069-a03b-618464e77d5f.png)
+
 
 
 
