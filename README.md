@@ -1,9 +1,12 @@
 
 
 🛑Criação site Home
-Primeirante criado o site principal, que é chamado de index.html, no qual o site será o home, em que será apresentado a barbearia, qual a missão, seus beneficios e a história da barbeária, realizei a criação e estilizei a partir do style css e linkei e referencial para assim adicionar as alteraç do css no arquivo html.
-![image](https://user-images.githubusercontent.com/125529065/232181027-32491d27-c82a-4fc0-a467-2342c43c2d1d.png)
-![image](https://user-images.githubusercontent.com/125529065/232181093-2d52d5c4-b399-45b7-b441-9dc13a38f6ea.png)
+Primeirante criado o site principal, que é chamado de index.html, no qual o site será o home, em que será apresentado a barbearia, qual a missão, seus beneficios e a história da barbeária, realizei a criação e estilizei a partir do style css e linkei e referencial para assim adicionar as alterações do css no arquivo.
+![image](https://user-images.githubusercontent.com/125529065/232649045-1ccf3444-d0d1-4891-8c31-3cce4a4c008b.png)
+![image](https://user-images.githubusercontent.com/125529065/232649098-435f3189-e22a-4c75-be8c-cbf604fec689.png)
+![image](https://user-images.githubusercontent.com/125529065/232649182-86c6b240-6eb4-4af7-b49f-5d89e3fb2b26.png)
+![image](https://user-images.githubusercontent.com/125529065/232649238-86804701-fbcf-4b64-996f-55efa587af4c.png)
+
 
 
 
